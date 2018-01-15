@@ -1,0 +1,17 @@
+-- pallet flips
+function hurtpal()
+  pal(1, 8)
+  pal(2, 8)
+  pal(3, 8)
+  pal(4, 8)
+  pal(5, 8)
+  pal(6, 8)
+  pal(7, 8)
+  pal(9, 8)
+  pal(10, 8)
+  pal(11, 8)
+  pal(12, 8)
+  pal(13, 8)
+  pal(14, 8)
+  pal(15, 8)
+end
