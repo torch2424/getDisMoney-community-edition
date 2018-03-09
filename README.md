@@ -15,4 +15,6 @@ It lacks the following features:
 
 This project is built using [pico8Grunt](https://github.com/TeamNoComplyGames/pico8Grunt)
 
+How the cart is saved: http://pico-8.wikia.com/wiki/Save
+
 More README Coming Soon!
